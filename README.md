@@ -1,4 +1,4 @@
-<h2>Hi, Chris here</h2>
+<h2>Hi, Chris here 🏳️‍⚧️</h2>
 <ul>
     <li>Currently interested in Android Studio App Development 🧑‍💻</li>
     <li>Crypto person ⚡😎 ₿ ⏩ 🌕</li>
